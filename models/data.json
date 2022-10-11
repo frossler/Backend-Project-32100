@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "timestamp": "",
+      "name": "Fire Sword",
+      "description": "A flaming blade",
+      "code": "0001",
+      "image": "https://icons.iconarchive.com/icons/bogo-d/kingdom/32/Flames-Edge-icon.png",
+      "price": 2500,
+      "stock": 3
+    },
+    {
+      "id": 2,
+      "timestamp": "",
+      "name": "Magic Sword",
+      "code": "0002",
+      "description": "Magic imbued sword",
+      "image": "https://icons.iconarchive.com/icons/bogo-d/kingdom/32/Sword-Magical-icon.png",
+      "price": 2200,
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "timestamp": "",
+      "name": "Lion's Shield",
+      "description": "Very resistant shield",
+      "code": "0003",
+      "image": "https://icons.iconarchive.com/icons/bogo-d/kingdom/32/Shield-Major-icon.png",
+      "price": 1500,
+      "stock": 4
+    },
+    {
+      "id": 4,
+      "timestamp": "",
+      "name": "Royal Brestplate",
+      "description": "Heavy fine armor",
+      "code": "0004",
+      "image": "https://icons.iconarchive.com/icons/bogo-d/kingdom/32/Breastplate-Royal-Cape-icon.png",
+      "price": 4500,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "timestamp": 1665493250729,
+      "name": "Golden Axe",
+      "description": "Sharp and shiny gold axe",
+      "code": "0005",
+      "image": "https://icons.iconarchive.com/icons/bogo-d/kingdom/32/Axe-Major-icon.png",
+      "price": 3000,
+      "stock": 5
+    },
+    {
+      "id": 6,
+      "timestamp": 1665504945851,
+      "name": "Wizard Hat",
+      "description": "Pointy hat with stars on it",
+      "code": "0006",
+      "image": "https://icons.iconarchive.com/icons/bogo-d/kingdom/32/Wizard-Hat-icon.png",
+      "price": 1300,
+      "stock": 4
+    }
+  ],
+  "carrito": [
+    {
+      "id": 1,
+      "timestamp": 1665498765952,
+      "products": [
+        {
+          "id": 4,
+          "timestamp": "",
+          "name": "Royal Brestplate",
+          "description": "Heavy fine armor",
+          "code": "0004",
+          "image": "https://icons.iconarchive.com/icons/bogo-d/kingdom/32/Breastplate-Royal-Cape-icon.png",
+          "price": 4500,
+          "stock": 3
+        }
+      ]
+    }
+  ]
+}
